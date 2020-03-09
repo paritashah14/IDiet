@@ -1,0 +1,39 @@
+.login-form{
+  width:100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  height: 100%;
+}
+
+body {
+  background-image: url('https://www.drweil.com/wp-content/uploads/2017/01/vitamins-supplements-herbs_vitamins_antioxidants_1440x1080_541823834-1024x768.jpeg');
+  background-size: cover;
+}
+
+
+
+.btn-block {
+    height: 40px;
+    width: inherit;
+    border-radius: 5px;
+    margin: 10px 0
+  }
+
+.btn-dark {
+  background-color: darkgray
+}
+
+.form-control {
+    width: 98%;
+    height: 24px;
+    margin: 4px 0
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-center a {
+   color: aliceblue;
+}
