@@ -1,0 +1,42 @@
+[
+	{
+		"firstname": "Mary",
+		"lastname": "Hunt",
+		"email": "maryhunt@fakemail.net",
+		"password": "password11",
+		"radio1": "Female",
+		"date": "2000-03-18"	
+	},
+	{
+		"firstname": "Amy",
+		"lastname": "House",
+		"email": "amyhouse@fakemail.net",
+		"password": "password22",
+		"radio1": "Female",
+		"date": "1999-11-07"	
+	},
+	{
+		"firstname": "Paul",
+		"lastname": "Lake",
+		"email": "paullake@fakemail.net",
+		"password": "Male",
+		"radio1": "password33",
+		"date": "1993-08-23"	
+	},
+	{
+		"firstname": "Josh",
+		"lastname": "Smith",
+		"email": "joshsmith@fakemail.net",
+		"password": "password44",
+		"radio1": "Male",
+		"date": "1988-05-22"	
+	},
+	{
+		"firstname": "Chris",
+		"lastname": "Johns",
+		"email": "chrisjohns@fakemail.net",
+		"password": "password55",
+		"radio1": "Other",
+		"date": "1981-03-11"	
+	}
+]

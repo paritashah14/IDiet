@@ -1,0 +1,10 @@
+.Register {
+    width: 600px;
+    margin: 0 auto;
+}
+
+label, input {
+    /* width: 5em; */
+    /* display: inline-block; */
+    /* margin-right: 2em; */
+}
