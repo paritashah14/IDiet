@@ -1,68 +1,33 @@
 .App {
   /* text-align: center; */
-  width: 500px;
-  margin: 0 auto;
+  width: 200px;
+  height: 50px;
+  margin: 0 300px;
+
+
 }
 
 body {
   background-image: url('https://image.freepik.com/free-photo/collection-vegetables-isolated-white-background_44074-1572.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-  background: url('https://www.theidiet.com/wp-content/uploads/2012/11/idiet-logo-plus-retrain-90.png');
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
 ul li {
-  display: inline;
+  display: block;
   list-style: none;
-  margin-right: 1em;
+  margin-right: 5em;
+  margin-top: 5em;
+
 }
 
 nav {
-  display: block;
-  margin: 1em 0 0 400px;
+
+  margin: auto;
 }
 
-.sticky-navigation-logo {
-  height: 50px;
-  width: 200px;
-  background: url('https://www.theidiet.com/wp-content/uploads/2012/11/idiet-logo-plus-retrain-90.png');
-  background-size: contain;
-  background-repeat: no-repeat;
-  margin: 0;
-
-
+h1{
+  color:rgb(88, 209, 18);
 }

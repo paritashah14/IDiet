@@ -6,6 +6,7 @@ import Login from './Login';
 import Register from './Register';
 import ForgotPassword from './ForgotPassword';
 import Content from './Content';
+import logo from './iDiet.svg';
 
 class App extends Component{
   constructor(props){
